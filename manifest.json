@@ -4,8 +4,9 @@
 	"version": "1.0",
 	"description": "Makes twitter bring you to the Following tab no matter what.",
 	"icons": {
-		"48": "icons/icon32.png",
-		"96": "icons/icon96.png"
+		"32": "icons/icon32.png",
+		"96": "icons/icon96.png",
+		"128": "icons/icon128.png"
 	},
 	"content_scripts": [
 		{
