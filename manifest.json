@@ -3,14 +3,6 @@
 	"name": "Following Only",
 	"version": "1.0",
 	"description": "Makes twitter bring you to the Following tab nop matter what.",
-	"icons": {
-		"48": "icons/border-48.png"
-	},
-	"background": {
-		"scripts": [
-			"browser-polyfill.js"
-		]
-	},
 	"content_scripts": [
 		{
 			"matches": [
